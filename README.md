@@ -27,7 +27,7 @@
 
 2. Install the required dependencies:
 
-pip install -r requirements.txt
+`pip install -r requirements.txt`
 
 
 3. Create a tokens.txt file in the same directory and add your Discord bot tokens. Each token should be on a new line:
